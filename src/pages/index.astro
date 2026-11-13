@@ -3,6 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { Content } from './content/home.md'
 ---
 
 <!doctype html>
@@ -14,11 +15,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<Header />
 		<main>
 		
-		# Soma Kosugi
-		
-		## Hydra(Visual Coding) Codes
-		
-		[Rainbow](./hydra/rainbow)
+		<Content />
 		
 		</main>
 		<Footer />
