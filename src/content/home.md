@@ -19,4 +19,8 @@
 
 [Zenn (https://zenn.dev/gitch)](https://zenn.dev/gitch)
 
+##### X
+
+[X (https://x.com/nekomixing)](https://x.com/nekomixing)
+
 </div>
